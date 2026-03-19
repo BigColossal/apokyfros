@@ -78,25 +78,31 @@ Client → Django API → Database
 
 Clone the repository
 
-git clone https://github.com/yourname/apokyfros
+`git clone https://github.com/yourname/apokyfros`
 
 Backend
 
+```
 cd backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+```
 
 Frontend
 
+```
 cd frontend
 npm install
 npm run dev
+```
 
 Game Server
 
+```
 cd game_server
 python index.py
+```
 
 ## Controls
 
