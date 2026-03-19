@@ -78,7 +78,9 @@ Client → Django API → Database
 
 Clone the repository
 
-`git clone https://github.com/yourname/apokyfros`
+```
+git clone https://github.com/yourname/apokyfros
+```
 
 Backend
 
