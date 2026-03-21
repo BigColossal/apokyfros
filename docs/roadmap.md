@@ -12,9 +12,9 @@ Apokyfros is a vast, mystical world where every choice shapes destiny. Players w
 
 ### Phase 0A - Minimum infrastructure
 
-- [ ] Project structure & repo setup
-
 - [ ] Finished project game design/architecture docs
+
+- [ ] Project structure & repo setup
 
 - [ ] Build system
 
