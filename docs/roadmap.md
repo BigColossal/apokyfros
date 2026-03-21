@@ -46,8 +46,6 @@ Apokyfros is a vast, mystical world where every choice shapes destiny. Players w
 
 ### Phase 1 — Core Engine & Single-Player Prototype
 
-    Establish the foundational game client and backend systems required for a playable prototype.
-
 - [ ] Minimal working game client & backend
 
 - [ ] Account system (registration & login)
@@ -84,11 +82,7 @@ Apokyfros is a vast, mystical world where every choice shapes destiny. Players w
 
 - [ ] Save/load persistent characters
 
-  Goal: A fully playable single-player prototype of the game loop.
-
 ### Phase 2 — Multiplayer Foundations
-
-    Introduce real-time multiplayer and shared world interaction.
 
 - [ ] Packet protocol
 
@@ -122,11 +116,7 @@ Apokyfros is a vast, mystical world where every choice shapes destiny. Players w
 
 - [ ] Basic anti-cheat safeguards
 
-Goal: Players can join the same world and interact in real time.
-
 ### Phase 3 — Core Gameplay Systems
-
-    Expand the core RPG mechanics and player progression.
 
 - [ ] Equipment system
 
@@ -152,11 +142,7 @@ Goal: Players can join the same world and interact in real time.
 
 - [ ] Equipment upgrading
 
-Goal: A full RPG progression loop emerges.
-
 ### Phase 4 — World Expansion
-
-    Expand the playable world and improve exploration.
 
 - [ ] Second zone implementation
 
@@ -180,11 +166,7 @@ Goal: A full RPG progression loop emerges.
 
 - [ ] Quest system
 
-  Goal: The world begins to feel like a true MMORPG world.
-
 ### Phase 5 — Clan & Social Systems
-
-    Introduce faction conflict and social gameplay.
 
 - [ ] Helios vs Selene clan selection
 
@@ -204,11 +186,7 @@ Goal: A full RPG progression loop emerges.
 
 - [ ] Guild events
 
-  Goal: Players form communities and fight for territory.
-
 ### Phase 6 — PvP Systems
-
-Add competitive gameplay and faction conflict.
 
 - [ ] Player vs Player combat
 
@@ -222,11 +200,7 @@ Add competitive gameplay and faction conflict.
 
 - [ ] PvP balancing systems
 
-Goal: Competitive gameplay and faction warfare.
-
 ### Phase 7 — Economy Systems
-
-Develop a player-driven economy.
 
 - [ ] Player marketplace
 
@@ -240,11 +214,7 @@ Develop a player-driven economy.
 
 - [ ] Resource economy balancing
 
-Goal: A functioning MMORPG economy.
-
 ### Phase 8 — Content Expansion
-
-Add long-term gameplay content.
 
 - [ ] High level zones
 
@@ -262,11 +232,7 @@ Add long-term gameplay content.
 
 - [ ] Hidden exploration areas
 
-Goal: Endgame content and replayability.
-
 ### Phase 9 — Polish & Optimization
-
-    Improve stability, performance, and visual quality.
 
 - [ ] Server performance optimization
 
@@ -296,11 +262,7 @@ Goal: Endgame content and replayability.
 
 - [ ] Patch deployment pipeline
 
-Goal: Production-ready MMORPG experience.
-
 ### Phase 10 — Launch & Live Service
-
-    Prepare for release and ongoing development.
 
 - [ ] Dedicated server deployment
 
@@ -317,5 +279,3 @@ Goal: Production-ready MMORPG experience.
 - [ ] New zones and expansions
 
 - [ ] Continuous balancing
-
-Goal: A living online game with ongoing updates.
